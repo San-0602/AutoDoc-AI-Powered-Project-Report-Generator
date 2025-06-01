@@ -41,3 +41,9 @@ bash
 Copy
 Edit
 python main.py
+
+## Important notes:
+
+This project depends on third-party AI APIs, which may have usage limits and require proper licensing.
+
+Ensure compliance with the API provider's terms of service before deploying AutoDoc for commercial use.
