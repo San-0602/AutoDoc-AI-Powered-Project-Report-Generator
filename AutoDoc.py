@@ -1,3 +1,9 @@
+# Project: AutoDoc: AI-report generator.
+# Author: S. Sandhys (San-0602)
+# Created: 01-06-2025
+# License: All Rights Reserved
+# Note: This code is not to be reused, modified, or distributed without permission.
+
 import streamlit as st
 import tempfile
 import os
