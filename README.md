@@ -46,3 +46,10 @@ python main.py
 
 This project depends on third-party AI APIs, which may have usage limits and require proper licensing.
 
+## ⚠️ License & Usage
+
+This project is licensed under **All Rights Reserved**.
+
+You are **not permitted** to use, copy, modify, distribute, or publish any part of this codebase 
+without the author's **explicit written permission**. For collaboration requests, please contact me.
+
